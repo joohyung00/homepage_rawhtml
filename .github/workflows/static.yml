@@ -24,8 +24,8 @@ jobs:
   # Single deploy job since we're just deploying
   deploy:
     environment:
-      name: Joohyung Yun
-      url: https://joohyung000.github.io
+      name: Joohyung Yun Homepage v1
+      url: https://joohyung00.github.io/my_homepage_v1
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
